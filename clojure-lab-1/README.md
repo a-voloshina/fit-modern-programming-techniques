@@ -1,10 +1,10 @@
 # clojure-lab-1
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to making a list of all strings of length n from the given characters.
 
 ## Usage
 
-FIXME
+FIXME (Later)
 
 ## License
 
